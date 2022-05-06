@@ -1,4 +1,4 @@
-name: coffee_list_chopper
+name: news_list_chopper
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -30,7 +30,6 @@ dependencies:
   build_runner: ^2.1.8
   chopper: ^4.0.5
   chopper_generator: ^4.0.5
-  cupertino_icons: ^1.0.2
   flutter:
     sdk: flutter
   flutter_riverpod: ^1.0.3

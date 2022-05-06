@@ -1,5 +1,5 @@
 import 'package:chopper/chopper.dart';
-import 'package:coffee_list_chopper/models/news.dart';
+import 'package:news_list_chopper/model/news.dart';
 
 part 'api_client.chopper.dart';
 

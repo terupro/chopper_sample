@@ -1,5 +1,5 @@
-import 'package:coffee_list_chopper/models/news.dart';
-import 'package:coffee_list_chopper/repositories/repository.dart';
+import 'package:news_list_chopper/model/news.dart';
+import 'package:news_list_chopper/repository/repository.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 final repositoryProvider = Provider((ref) => Repository());

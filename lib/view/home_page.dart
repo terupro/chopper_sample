@@ -1,5 +1,5 @@
-import 'package:coffee_list_chopper/models/news.dart';
-import 'package:coffee_list_chopper/view_models/state.dart';
+import 'package:news_list_chopper/model/news.dart';
+import 'package:news_list_chopper/view_model/provider.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 

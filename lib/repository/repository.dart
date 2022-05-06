@@ -1,7 +1,7 @@
 import 'dart:convert';
 
-import 'package:coffee_list_chopper/models/news.dart';
-import 'package:coffee_list_chopper/services/api_client.dart';
+import 'package:news_list_chopper/model/news.dart';
+import 'package:news_list_chopper/service/api_client.dart';
 
 class Repository {
   Future<List<News>> getNews() {
